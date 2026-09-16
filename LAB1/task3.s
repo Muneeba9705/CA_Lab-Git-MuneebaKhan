@@ -1,5 +1,4 @@
 .text
-.global main
 
 main:  
     li x5 , 5 # a =x5= 5 
